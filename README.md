@@ -34,15 +34,15 @@ This tool closes that gap.
 
 ## ✨ Features
 
-- ✅ Task planning with start/end time  
-- ✅ Overlap detection  
-- ✅ Status tracking  
-- ✅ Actual worked time input  
-- ✅ Daily completion rate  
-- ✅ Funny + motivational feedback  
-- ✅ Visual charts  
-- ✅ PDF report export  
-- ✅ Edit / delete tasks  
+- Task planning with start/end time  
+- Overlap detection  
+- Status tracking  
+- Actual worked time input  
+- Daily completion rate  
+- Funny + motivational feedback  
+- Visual charts  
+- PDF report export  
+- Edit / delete tasks  
 
 ---
 
@@ -55,7 +55,7 @@ This tool closes that gap.
 
 ---
 
-## 🛠 How to Run
+##  How to Run
 
 ### Option 1 — Google Colab
 Open the notebook and run all cells.
@@ -69,13 +69,13 @@ jupyter notebook
 
 ---
 
-## 📄 Export
+##  Export
 
 Export your day as a PDF report including stats, charts, and summary.
 
 ---
 
-## 🎯 Philosophy
+## Philosophy
 
 > Progress > Perfection  
 
@@ -84,7 +84,7 @@ Even a 20% day is better than 0%
 
 ---
 
-## ❤️ Final Note
+## Final Note
 
 This is not just a planner.  
 It’s a friendly system that keeps you accountable without being harsh.
