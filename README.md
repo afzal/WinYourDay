@@ -8,7 +8,7 @@ Plan your day, do your best, and get a little clap when you finish early 👏 A 
 
 ---
 
-## 🚀 What is this?
+## What is this?
 
 This is a **simple but honest daily productivity tool** built with Python and `ipywidgets`.
 
@@ -22,7 +22,7 @@ It helps you:
 
 ---
 
-## 😎 Why this exists
+## Why this exists
 
 Because we all:
 - plan like superheroes 🦸‍♀️  
